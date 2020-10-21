@@ -4,7 +4,7 @@ In this project the aim ewas to test different generative models on the [Fruits 
 
 Namely:
   - Variational Autoencoder
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+  ![va](https://raw.githubusercontent.com/hmosousa/generate_fruit/main/imgs/cva.png)
   - Convolutional Variational Autoencoder
   - Generative Adversarial Network (GAN)
   - Deep Convolutional GAN
