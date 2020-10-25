@@ -11,6 +11,6 @@ Namely:
   - [x] Convolutional Variational Autoencoder
   ![cva](https://raw.githubusercontent.com/hmosousa/generate_fruit/main/imgs/cva.png)
   
-  - [] Generative Adversarial Network (GAN)
+  - [ ] Generative Adversarial Network (GAN)
   
-  - [] Deep Convolutional GAN 
+  - [ ] Deep Convolutional GAN 
